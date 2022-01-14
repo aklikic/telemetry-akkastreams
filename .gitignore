@@ -1,0 +1,9 @@
+/target/
+/telemetry-akkastreams.iml
+/.idea/
+.DS_Store
+.bsp
+settings.xml
+lightbend.sbt
+/project/project
+/project/target
